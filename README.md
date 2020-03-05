@@ -34,7 +34,7 @@ To run a specific scenario file:
 
 We are using the following environment:
 * `Staging environment`
-* `Link :https://standbymd-qa3.globalexcel.com/#!`
+ -  `Link :https://standbymd-qa3.globalexcel.com/#!`
 * `Username: qa1@globalexcel.com`
 * `Password: Ask the Administator `
 
