@@ -33,53 +33,54 @@ To run a specific scenario file:
 ## Target Environment Selection
 
 We are using the following environment:
-Staging environment
-Link :https://standbymd-qa3.globalexcel.com/#!
-Username: qa1@globalexcel.com
-Password: Ask the Administator
+* `Staging environment`
+* `Link :https://standbymd-qa3.globalexcel.com/#!`
+* `Username: qa1@globalexcel.com`
+* `Password: Ask the Administator `
 
 ## Test cases Used
-Contact form
-End call functionality
-Happy flow - yes Emergency
-Happy flow - No emergency 
-Login on StandbyMd as Client
-Member details form
+
+* `Contact form`
+* `End call functionality`
+* `Happy flow - yes Emergency`
+* `Happy flow - No emergency`
+* `Login on StandbyMd as Client`
+* `Member details form `
 
 ## Vocabulary
 
 Wording/naming of objects/entities that exist in StandbyMD.
 
-## Entities:
+### Entities:
 
-Client users
-Emergency flow
-Non Emergency Flow
-Demographics
-Location
-Telemedicine
-Symptoms
-House visit
-Concierge care
-Emergency room
-Hospital
-Pharmacy
+* `Client users`
+* `Emergency flow`
+* `Non Emergency Flow`
+* `Demographics`
+* `Location `
+* `Telemedicine `
+* `Symptoms`
+* `House visit `
+* `Concierge care`
+* `Emergency room`
+* `Hospital`
+* `Pharmacy `
  
 ## Components
 
-main header
-Client Sign-in button
-Sign in button
-Yes button
-No button
-Location
-End call icon
-Add contact icon
-Contact form
-Next button
-Nearest hospital link
-Ok button
-Member details form
-Submit button (yes Happy flow)
-Save button
-Skip button
+* `main header`
+* `Client Sign-in button `
+* `Sign in button`
+* `Yes button `
+* `No button`
+* `Location `
+* `End call icon`
+* `Add contact icon `
+* `Password: Ask the Administator `
+* `Next button `
+* `Nearest hospital link`
+* `Ok button `
+* `Member details form`
+* `Submit button (yes Happy flow) `
+* `Save button `
+* `Skip button `
