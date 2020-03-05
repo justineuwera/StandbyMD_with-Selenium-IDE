@@ -1,8 +1,8 @@
 # StandbyMD_with-Selenium-IDE
-# # Purpose
+## Purpose
 Specify how standbyMD is supposed to behave
 Execute the test cases automatically  against the system to confirm that it behaves as per expectations.
-# # Initial Setup
+## Initial Setup
 
 Getting started with Selenium IDE requires no additional setup other than installing the extension on your browser. 
 For example: Using Google chrome
@@ -13,13 +13,13 @@ For example: Using Google chrome
 4. And then click on Add Extension.
 5. Once IDE is installed you'll see an icon in your browser toolbar 
 
-# # Install Dependencies
+## Install Dependencies
 
 $ git clone “https://github.com/justineuwera/StandbyMD_with-Selenium-IDE.git" 
 
 $ cd Selenium IDE_ StandbyMD 
 
-# # Specification Execution
+## Specification Execution
 
 To run a specific scenario file:
 1. Open Selenium IDE from the Chrome
