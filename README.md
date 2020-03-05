@@ -1,8 +1,8 @@
 # StandbyMD_with-Selenium-IDE
 
 ## Purpose
-Specify how standbyMD is supposed to behave
-Execute the test cases automatically  against the system to confirm that it behaves as per expectations.
+* Specify how standbyMD is supposed to behave
+* Execute the test cases automatically  against the system to confirm that it behaves as per expectations.
 
 ## Initial Setup
 
