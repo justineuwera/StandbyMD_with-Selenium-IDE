@@ -1,7 +1,9 @@
 # StandbyMD_with-Selenium-IDE
+
 ## Purpose
 Specify how standbyMD is supposed to behave
 Execute the test cases automatically  against the system to confirm that it behaves as per expectations.
+
 ## Initial Setup
 
 Getting started with Selenium IDE requires no additional setup other than installing the extension on your browser. 
@@ -28,7 +30,7 @@ To run a specific scenario file:
 4. Click on one file 
 5. Click on run all tests
 
-# # Target Environment Selection
+## Target Environment Selection
 
 We are using the following environment:
 Staging environment
@@ -36,7 +38,7 @@ Link :https://standbymd-qa3.globalexcel.com/#!
 Username: qa1@globalexcel.com
 Password: Ask the Administator
 
-# # Test cases Used
+## Test cases Used
 Contact form
 End call functionality
 Happy flow - yes Emergency
@@ -44,11 +46,11 @@ Happy flow - No emergency
 Login on StandbyMd as Client
 Member details form
 
-# # Vocabulary
+## Vocabulary
 
 Wording/naming of objects/entities that exist in StandbyMD.
 
-# # Entities:
+## Entities:
 
 Client users
 Emergency flow
@@ -63,7 +65,7 @@ Emergency room
 Hospital
 Pharmacy
  
-# # Components
+## Components
 
 main header
 Client Sign-in button
